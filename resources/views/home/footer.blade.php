@@ -19,8 +19,6 @@
             <div class="col-lg-4 col-xs-12">
                 <div class="left-text-content">
                     <p>© Copyright Klassy Cafe Co.
-
-                        <br>Design: TemplateMo
                     </p>
                 </div>
             </div>
